@@ -12,3 +12,9 @@ O objetivo desse aplicativo é coletar as coordenadas de latitude e longitude do
 Um breve tutorial foi disponibilizado no canal da IoTools no YouTube: https://www.youtube.com/watch?v=ijPNbT_Vx2Y&index=3&list=PLl6eaqJjI6AywgwQl5c5E7OeEQrogRrrJ
 
 
+Também estamos disponibilizando os Hosts e Mapas usados nos testes desse projeto:
+
+-- zbx_export_hosts.xml --> Host 
+-- zbx_export_maps.xml --> Mapa
+
+É preciso importar esses arquivos no servidor Zabbix.
